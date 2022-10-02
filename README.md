@@ -2,5 +2,9 @@
 
 ## Quick start
 
-docker-compose build   
+```
+cd next-archive build
+
+docker-compose build
 docker-compose up
+```
